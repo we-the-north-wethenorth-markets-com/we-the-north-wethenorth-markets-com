@@ -48,4 +48,6 @@ Unlike many darknet markets often plagued by scams or unreliable vendors, **We T
 *We The North Market – Canada’s trusted darknet hub for secure, anonymous, and efficient transactions.*
 
 
-Update:  18 September 2025
+
+
+Update:  01 October 2025
